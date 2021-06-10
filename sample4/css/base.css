@@ -7,6 +7,13 @@ html{
 	デフォルトフォントサイズ= 16px相当 
 	16×62.5% = 10 */
 }
+
+h1{
+    background: #64B5F6;
+    color: #333333;
+    font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese","ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+    font-family: 'Yusei Magic', sans-serif;
+}
 body{
     background: #4DD0E1;
     color: #333333;
