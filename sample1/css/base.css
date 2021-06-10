@@ -40,7 +40,7 @@ footer{
     background-color: #4DD0E1;
 }
 footer p{
-    padding: 10px;
+    padding: 50px;
     text-align: center;
 }
 @media screen and (min-width: 768px){
